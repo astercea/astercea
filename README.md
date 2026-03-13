@@ -32,4 +32,4 @@ Currently, I am a volunteer developer and actively working on the **Fexio Labs**
 
 ### 📫 Connect with me:
 
-[LinkedIn]() | [Email](mailto:ilaydabilgili00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ilayda-bilgili-34631929a?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](mailto:ilaydabilgili00@gmail.com)
