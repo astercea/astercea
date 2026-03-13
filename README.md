@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**astercea/astercea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ilayda Bilgili 🎓💻
 
-Here are some ideas to get you started:
+I am a second-year Computer Engineering student passionate about mobile application development and modern web technologies. I love building real-world solutions and exploring the latest tech trends. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am a volunteer developer and actively working on the **MicroSkills** platform. I also leverage AI-driven tools to optimize my workflow and problem-solving. 🤖
+
+---
+
+### ⚙️ Tech Stack & Tools
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Interests & Focus
+
+* **Mobile App Development** 📱
+* **Backend & Database Management (Supabase, SQL)** 💾
+* **AI-Assisted Software Engineering** 🧠
+* **Frontend Technologies (React)** ✨
+* **Collaborative Projects & Open Source** 🤝
+
+---
+
+### 📫 Connect with me:
+
+[LinkedIn]() | [Email](mailto:ilaydabilgili00@gmail.com)
