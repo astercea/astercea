@@ -4,7 +4,7 @@
 
 I am a second-year Computer Engineering student passionate about mobile application development and modern web technologies. I love building real-world solutions and exploring the latest tech trends. 🚀
 
-Currently, I am a volunteer developer and actively working on the **MicroSkills** platform. I also leverage AI-driven tools to optimize my workflow and problem-solving. 🤖
+Currently, I am a volunteer developer and actively working on the **Fexio Labs** platform. I also leverage AI-driven tools to optimize my workflow and problem-solving. 🤖
 
 ---
 
