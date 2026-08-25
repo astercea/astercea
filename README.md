@@ -1,35 +1,31 @@
-# Hi there 👋
+# İlayda Bilgili
 
-# Ilayda Bilgili 🎓💻
+### Third-Year Computer Engineering Student
 
-I am a second-year Computer Engineering student passionate about mobile application development and modern web technologies. I love building real-world solutions and exploring the latest tech trends. 🚀
+I am a third-year Computer Engineering student interested in artificial intelligence, machine learning, and software development. Through academic, personal, and team projects, I have gained practical experience in mobile application development, web technologies, and relational databases.
 
-Currently, I am a volunteer developer and actively working on the **Fexio Labs** platform. I also leverage AI-driven tools to optimize my workflow and problem-solving. 🤖
+I am currently strengthening my knowledge of AI and machine learning while continuing to improve my software engineering and problem-solving skills.
 
----
+## Technologies
 
-### ⚙️ Tech Stack & Tools 
+- **Programming Languages:** Python, Java, Dart, JavaScript, TypeScript, PHP, SQL, C, C++
+- **Mobile and Web:** Flutter, React, HTML, CSS, OpenCart
+- **Databases and Backend:** PostgreSQL, MySQL, Oracle SQL, Supabase
+- **Tools:** Git, GitHub, Android Studio, XAMPP
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## Projects and Experience
 
----
+- **E-Commerce Website:** Developed and customized an OpenCart-based e-commerce website using PHP, MySQL, HTML, CSS, and JavaScript.
+- **Mobile Application Development:** Contributed to team-based Flutter projects through testing, data-model validation, screen integration, documentation, and performance scenarios.
+- **Educational Application:** Designing a cross-platform learning application with level-based activities, teacher and parent accounts, assignments, and progress tracking.
+- **Database Projects:** Designed relational database systems involving schema creation, table relationships, constraints, triggers, and data-integrity rules.
 
-### 📌 Interests & Focus
+## Areas of Interest
 
-* **Mobile App Development** 📱
-* **Backend & Database Management (Supabase, SQL)** 💾
-* **AI-Assisted Software Engineering** 🧠
-* **Frontend Technologies (React)** ✨
-* **Collaborative Projects & Open Source** 🤝
+- Artificial intelligence and machine learning
+- AI-assisted software engineering
+- Algorithms and problem solving
 
----
+## Connect
 
-### 📫 Connect with me:
-
-[LinkedIn](https://www.linkedin.com/in/ilayda-bilgili-34631929a?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | [Email](mailto:ilaydabilgili00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ilayda-bilgili-34631929a/) | [Email](mailto:ilaydabilgili00@gmail.com)
